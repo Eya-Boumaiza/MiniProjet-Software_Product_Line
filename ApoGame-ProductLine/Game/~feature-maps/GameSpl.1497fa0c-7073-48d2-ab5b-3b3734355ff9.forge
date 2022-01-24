@@ -1,0 +1,45 @@
+{
+    "deletionPropagations": [
+        {
+            "file": "src/apoGame/ApoGamePanel.java",
+            "propagations": [
+                {
+                    "featureKey": "1497fa0c-7073-48d2-ab5b-3b3734355ff9",
+                    "ranges": [
+                        {
+                            "propagationId": "313d7cce-dc2e-4632-840d-34d4008f6334",
+                            "startLine": 219,
+                            "startColumn": 2,
+                            "endLine": 219,
+                            "endColumn": 56,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/apoGame/game/ApoGameButtons.java",
+            "propagations": [
+                {
+                    "featureKey": "1497fa0c-7073-48d2-ab5b-3b3734355ff9",
+                    "ranges": [
+                        {
+                            "propagationId": "b6ae7e7a-7ec4-4417-882c-6d5d9ddd53c1",
+                            "startLine": 75,
+                            "startColumn": 1,
+                            "endLine": 90,
+                            "endColumn": 0,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "replacementPropagations": [],
+    "resourcePropagations": [],
+    "pathPropagations": []
+}

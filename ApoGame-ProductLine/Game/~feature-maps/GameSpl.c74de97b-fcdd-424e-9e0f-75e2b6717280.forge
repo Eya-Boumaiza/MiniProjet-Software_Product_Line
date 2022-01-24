@@ -1,0 +1,26 @@
+{
+    "deletionPropagations": [
+        {
+            "file": "src/apoGame/ApoGamePanel.java",
+            "propagations": [
+                {
+                    "featureKey": "c74de97b-fcdd-424e-9e0f-75e2b6717280",
+                    "ranges": [
+                        {
+                            "propagationId": "77bff83d-a5da-47f9-aced-0658114ef494",
+                            "startLine": 233,
+                            "startColumn": 2,
+                            "endLine": 233,
+                            "endColumn": 55,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "replacementPropagations": [],
+    "resourcePropagations": [],
+    "pathPropagations": []
+}

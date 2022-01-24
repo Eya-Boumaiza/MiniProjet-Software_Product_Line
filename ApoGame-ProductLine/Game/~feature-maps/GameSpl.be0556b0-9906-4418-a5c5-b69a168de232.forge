@@ -1,0 +1,26 @@
+{
+    "deletionPropagations": [
+        {
+            "file": "src/apoGame/game/ApoGameLevelChooser.java",
+            "propagations": [
+                {
+                    "featureKey": "be0556b0-9906-4418-a5c5-b69a168de232",
+                    "ranges": [
+                        {
+                            "propagationId": "6600f632-950f-4ea0-8f1d-ed188fafa66f",
+                            "startLine": 85,
+                            "startColumn": 3,
+                            "endLine": 87,
+                            "endColumn": 5,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "replacementPropagations": [],
+    "resourcePropagations": [],
+    "pathPropagations": []
+}

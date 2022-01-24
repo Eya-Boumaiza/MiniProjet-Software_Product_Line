@@ -1,0 +1,66 @@
+{
+    "rangeSeeds": [
+        {
+            "file": "src/Jtic.java",
+            "seeds": [
+                {
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "88002359-eed0-4153-8482-2ce8b5a90f1c",
+                    "startLine": 1436,
+                    "startColumn": 32,
+                    "endLine": 1436,
+                    "endColumn": 35
+                },
+                {
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "88002359-eed0-4153-8482-2ce8b5a90f1c",
+                    "startLine": 1437,
+                    "startColumn": 32,
+                    "endLine": 1437,
+                    "endColumn": 35
+                },
+                {
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "88002359-eed0-4153-8482-2ce8b5a90f1c",
+                    "startLine": 1438,
+                    "startColumn": 32,
+                    "endLine": 1438,
+                    "endColumn": 35
+                },
+                {
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "26a0b656-cebb-406f-b188-803e8b2b744b",
+                    "startLine": 1439,
+                    "startColumn": 32,
+                    "endLine": 1439,
+                    "endColumn": 35
+                },
+                {
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "26a0b656-cebb-406f-b188-803e8b2b744b",
+                    "startLine": 1440,
+                    "startColumn": 32,
+                    "endLine": 1440,
+                    "endColumn": 35
+                },
+                {
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "26a0b656-cebb-406f-b188-803e8b2b744b",
+                    "startLine": 1441,
+                    "startColumn": 32,
+                    "endLine": 1441,
+                    "endColumn": 35
+                },
+                {
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "26a0b656-cebb-406f-b188-803e8b2b744b",
+                    "startLine": 1442,
+                    "startColumn": 32,
+                    "endLine": 1442,
+                    "endColumn": 35
+                }
+            ]
+        }
+    ],
+    "fileSeeds": []
+}

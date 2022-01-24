@@ -1,0 +1,4 @@
+File,Credits(%Of-File),Credits(%Of-Feature),Credits(#Propagations),Difficile(%Of-File),Difficile(%Of-Feature),Difficile(#Propagations),Editor(%Of-File),Editor(%Of-Feature),Editor(#Propagations),Facile(%Of-File),Facile(%Of-Feature),Facile(#Propagations),Moyen(%Of-File),Moyen(%Of-Feature),Moyen(#Propagations),Niveau(%Of-File),Niveau(%Of-Feature),Niveau(#Propagations),Options(%Of-File),Options(%Of-Feature),Options(#Propagations)
+src\apoGame\ApoGamePanel.java,0.4863550391786004,50,1,0,0,0,0,0,0,0,0,0,0.4863550391786004,50,1,0,0,0,0.4863550391786004,50,1
+src\apoGame\game\ApoGameButtons.java,7.119329240904328,50,1,0,0,0,0,0,0,0,0,0,3.466087737685282,50,1,0,0,0,13.954184758197336,50,1
+src\apoGame\game\ApoGameLevelChooser.java,0,0,0,0,0,0,1.3679890560875512,100,1,1.3679890560875512,100,1,0,0,0,1.1627906976744187,100,1,0,0,0

@@ -1,0 +1,78 @@
+{
+    "core": {
+        "key": "1ebb6d6e-5871-4ce8-8731-6da387e9f879",
+        "name": "TicTacGame-Forge",
+        "type": "Core",
+        "parent": "-1",
+        "parentRelation": "Normal",
+        "presence": "Mandatory",
+        "lgFile": "",
+        "role": "",
+        "hexColor": "",
+        "help": "",
+        "nodeWeight": -1,
+        "isPropagated": true
+    },
+    "functionalities": [
+        {
+            "key": "df74843a-9352-45b1-a566-d18a468299fe",
+            "name": "Facile",
+            "type": "Functionality feature",
+            "parent": "1ebb6d6e-5871-4ce8-8731-6da387e9f879",
+            "parentRelation": "Normal",
+            "presence": "Mandatory",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#0af012",
+            "help": "",
+            "nodeWeight": -1,
+            "isPropagated": false
+        },
+        {
+            "key": "88002359-eed0-4153-8482-2ce8b5a90f1c",
+            "name": "Moyen",
+            "type": "Functionality feature",
+            "parent": "1ebb6d6e-5871-4ce8-8731-6da387e9f879",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#eac50b",
+            "help": "",
+            "nodeWeight": -1,
+            "isPropagated": true
+        },
+        {
+            "key": "26a0b656-cebb-406f-b188-803e8b2b744b",
+            "name": "Difficile",
+            "type": "Functionality feature",
+            "parent": "1ebb6d6e-5871-4ce8-8731-6da387e9f879",
+            "parentRelation": "Normal",
+            "presence": "Optional",
+            "lgFile": "",
+            "role": "",
+            "hexColor": "#e30219",
+            "help": "",
+            "nodeWeight": -1,
+            "isPropagated": false
+        }
+    ],
+    "fileResources": [],
+    "textResources": [],
+    "smartAppAssetResources": [],
+    "colorResources": [],
+    "referencedModels": [],
+    "constraints": [
+        {
+            "type": "⇒",
+            "left": {
+                "type": "feature",
+                "featureKey": "26a0b656-cebb-406f-b188-803e8b2b744b"
+            },
+            "right": {
+                "type": "feature",
+                "featureKey": "88002359-eed0-4153-8482-2ce8b5a90f1c"
+            }
+        }
+    ]
+}

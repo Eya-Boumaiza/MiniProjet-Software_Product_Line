@@ -1,0 +1,350 @@
+{
+    "deletionPropagations": [
+        {
+            "file": "src/Jtic.java",
+            "propagations": [
+                {
+                    "featureKey": "88002359-eed0-4153-8482-2ce8b5a90f1c",
+                    "ranges": [
+                        {
+                            "propagationId": "69d4746a-a9ad-4bef-ade9-a2e880dff5d9",
+                            "startLine": 1436,
+                            "startColumn": 3,
+                            "endLine": 1438,
+                            "endColumn": 36,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "6afbb78d-468e-40ab-9929-c4c6eda18c58",
+                            "startLine": 77,
+                            "startColumn": 7,
+                            "endLine": 79,
+                            "endColumn": 40,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "b7abf581-36e3-448c-a5dc-d9accfd64c2f",
+                            "startLine": 299,
+                            "startColumn": 7,
+                            "endLine": 340,
+                            "endColumn": 11,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "accc77ed-b882-4858-a6d9-65e44d74a084",
+                            "startLine": 458,
+                            "startColumn": 28,
+                            "endLine": 459,
+                            "endColumn": 28,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "2eb81344-7b11-4e7e-b293-b4b708171e6c",
+                            "startLine": 490,
+                            "startColumn": 38,
+                            "endLine": 491,
+                            "endColumn": 84,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "95958b8d-a6bd-407c-aad4-8350c6f5e4e9",
+                            "startLine": 725,
+                            "startColumn": 2,
+                            "endLine": 785,
+                            "endColumn": 0,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "38e15b7b-4a9f-4cd3-97e2-ad56312d6088",
+                            "startLine": 886,
+                            "startColumn": 105,
+                            "endLine": 904,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "8afef691-967b-4a1f-919f-f5d7340dd5ec",
+                            "startLine": 912,
+                            "startColumn": 112,
+                            "endLine": 929,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "05d29cfa-0f77-4266-8e7e-c9114063b7ea",
+                            "startLine": 953,
+                            "startColumn": 19,
+                            "endLine": 955,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "2fcc423a-9bc6-45d3-87c9-61d6a637f2b1",
+                            "startLine": 978,
+                            "startColumn": 19,
+                            "endLine": 980,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "4c1f9edf-99ea-4134-b4af-992f638adce8",
+                            "startLine": 1003,
+                            "startColumn": 18,
+                            "endLine": 1005,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "d293d658-91d6-4959-93f8-fb727828c9bf",
+                            "startLine": 1028,
+                            "startColumn": 20,
+                            "endLine": 1030,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "0d522308-0e64-45a2-b279-874dfaa62b2f",
+                            "startLine": 1055,
+                            "startColumn": 18,
+                            "endLine": 1057,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "bf20f24d-ca28-4d72-bccc-671ef46bf6e7",
+                            "startLine": 1081,
+                            "startColumn": 16,
+                            "endLine": 1083,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "0999408b-35e5-42f7-a197-4e227dd04c42",
+                            "startLine": 1106,
+                            "startColumn": 19,
+                            "endLine": 1108,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "43e5b7c9-fc05-492e-8f18-653e2f2d2ae0",
+                            "startLine": 1132,
+                            "startColumn": 22,
+                            "endLine": 1134,
+                            "endColumn": 45,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "30fba991-01d2-4dca-910b-b4a5c8bf3c40",
+                            "startLine": 1158,
+                            "startColumn": 18,
+                            "endLine": 1160,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "e70d1c3e-5de5-41a8-9ca8-79e827af0cff",
+                            "startLine": 1183,
+                            "startColumn": 18,
+                            "endLine": 1185,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "b9a003be-2007-4f89-b46c-67cdfab75d48",
+                            "startLine": 1193,
+                            "startColumn": 24,
+                            "endLine": 1193,
+                            "endColumn": 46,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "f800b9fc-ed6f-4f91-b79c-d5062f2205a3",
+                            "startLine": 1209,
+                            "startColumn": 20,
+                            "endLine": 1211,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "9dcbe9ce-96ad-4906-8558-7d38308a38ba",
+                            "startLine": 1219,
+                            "startColumn": 24,
+                            "endLine": 1219,
+                            "endColumn": 46,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "4c95dcaf-f2d1-4aa1-8696-aa75e553b4e9",
+                            "startLine": 1234,
+                            "startColumn": 20,
+                            "endLine": 1236,
+                            "endColumn": 42,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "80ae538b-d7c2-44cf-aa0e-f2a1b79725c7",
+                            "startLine": 934,
+                            "startColumn": 20,
+                            "endLine": 937,
+                            "endColumn": 20,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "1af58c15-3d2f-4bbf-b404-ec05a047c960",
+                            "startLine": 909,
+                            "startColumn": 14,
+                            "endLine": 912,
+                            "endColumn": 88,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "fff0cb72-4f13-40d1-b13f-a908707fa4c4",
+                            "startLine": 1306,
+                            "startColumn": 19,
+                            "endLine": 1308,
+                            "endColumn": 40,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "d2f4782d-a959-4487-a36e-2975384df820",
+                            "startLine": 1356,
+                            "startColumn": 3,
+                            "endLine": 1358,
+                            "endColumn": 29,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "e491ca2a-fed0-4de4-bca6-ef16a6645d67",
+                            "startLine": 1374,
+                            "startColumn": 8,
+                            "endLine": 1376,
+                            "endColumn": 24,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "743bf605-3771-4774-b25b-6ea812bb1594",
+                            "startLine": 452,
+                            "startColumn": 25,
+                            "endLine": 453,
+                            "endColumn": 28,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "d627936a-577e-446f-87ec-9545976baead",
+                            "startLine": 485,
+                            "startColumn": 35,
+                            "endLine": 489,
+                            "endColumn": 38,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "7315e8cd-d517-473c-bffe-7b252939bb66",
+                            "startLine": 886,
+                            "startColumn": 15,
+                            "endLine": 886,
+                            "endColumn": 83,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "d54e95b9-f96b-49b1-b85e-b508b16d2f80",
+                            "startLine": 1143,
+                            "startColumn": 24,
+                            "endLine": 1143,
+                            "endColumn": 46,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "0b84641e-cf67-4169-a8e4-1ca7cb53d8ce",
+                            "startLine": 1168,
+                            "startColumn": 24,
+                            "endLine": 1168,
+                            "endColumn": 46,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "80ae4aad-d1b3-493f-aad3-d05d421626c0",
+                            "startLine": 1286,
+                            "startColumn": 20,
+                            "endLine": 1286,
+                            "endColumn": 23,
+                            "parent": "11300d81-c2be-44e1-a9d9-577ede2922ba",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "e622b680-99c4-4739-a24d-b3d11fec2047",
+                            "startLine": 448,
+                            "startColumn": 45,
+                            "endLine": 449,
+                            "endColumn": 46,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "5315a275-2a4c-4890-b500-e03c52b94451",
+                            "startLine": 1091,
+                            "startColumn": 24,
+                            "endLine": 1091,
+                            "endColumn": 46,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "713b06be-e633-4481-bfb3-d41159a343a1",
+                            "startLine": 1117,
+                            "startColumn": 24,
+                            "endLine": 1117,
+                            "endColumn": 46,
+                            "parent": "-1",
+                            "children": []
+                        },
+                        {
+                            "propagationId": "174365b7-ecdb-4ba1-b221-c26ce775524a",
+                            "startLine": 1316,
+                            "startColumn": 24,
+                            "endLine": 1316,
+                            "endColumn": 66,
+                            "parent": "-1",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "replacementPropagations": [],
+    "resourcePropagations": [],
+    "pathPropagations": []
+}

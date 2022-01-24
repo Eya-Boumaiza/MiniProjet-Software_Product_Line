@@ -1,0 +1,30 @@
+{
+    "deletionPropagations": [
+        {
+            "file": "src/apoGame/game/level/ApoGameLevelGeneration.java",
+            "propagations": [
+                {
+                    "featureKey": "a9041fa9-fc39-4c15-b33d-7be602769973",
+                    "ranges": [
+                        {
+                            "propagationId": "e1113789-dd1b-408b-863f-5cbd59132da0",
+                            "startLine": 7,
+                            "startColumn": 0,
+                            "endLine": 70,
+                            "endColumn": 14,
+                            "parent": "-1",
+                            "children": [
+                                "4709be8b-b348-4f2d-b651-a87f800b6d0e",
+                                "37d6c96d-1feb-48d0-ba7f-f284dd2b8ecf",
+                                "71a1fe1e-9863-4e68-89df-ea69484cf7b6"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "replacementPropagations": [],
+    "resourcePropagations": [],
+    "pathPropagations": []
+}
